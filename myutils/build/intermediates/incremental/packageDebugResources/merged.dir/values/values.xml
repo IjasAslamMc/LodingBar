@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LovelyView">
+        <attr format="color" name="setColor"/>
+        <attr format="integer" name="setWidth"/>
+        <attr format="integer" name="setHeight"/>
+    </declare-styleable>
+    <string name="app_name">MyUtils</string>
+</resources>

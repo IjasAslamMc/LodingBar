@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="LovelyView">
+        <attr name="setColor" format="color" />
+        <attr name="setWidth" format="integer" />
+        <attr name="setHeight" format="integer" />
+    </declare-styleable>
+
+</resources>
